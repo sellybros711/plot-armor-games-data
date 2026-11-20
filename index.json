@@ -1,1 +1,12 @@
-{"games":["fable.json","final-fantasy-vii-revelation.json","gta-6.json","marvels-wolverine.json","persona-4-revival.json","resident-evil-requiem.json"]}
+{
+  "_comment": "The games, in the order the popup and store list them (GTA VI first, Selly 2026-11-19). The same list is index.json in the public data repo, which is what users' extensions follow once they have downloaded it. A game file needs its name here, or it is not used.",
+  "games": [
+    "gta-6.json",
+    "marvels-wolverine.json",
+    "red-dead-redemption-2.json",
+    "cyberpunk-2077.json",
+    "baldurs-gate-3.json",
+    "god-of-war-ragnarok.json",
+    "the-last-of-us.json"
+  ]
+}
